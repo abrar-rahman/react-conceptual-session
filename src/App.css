@@ -1,0 +1,13 @@
+.card{
+  width: 400px;
+  border: 1px solid gray;
+}
+
+.card-img{
+  width: 150px;
+}
+
+.cart-title{
+  display: flex;
+  justify-content: space-around;
+}
